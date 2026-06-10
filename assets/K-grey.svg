@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+
+<svg
+   fill="#000000"
+   height="171.83444"
+   width="155.39998"
+   version="1.1"
+   id="Layer_1"
+   viewBox="0 0 3.1079996 3.4366888"
+   xml:space="preserve"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:ns1="http://www.iki.fi/pav/software/textext/"><defs
+   id="defs1" />
+
+<rect
+   style="fill:#b3b3b3;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.137038;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3.8;paint-order:fill markers stroke"
+   id="rect1"
+   width="3.1079996"
+   height="3.4366891"
+   x="2.3143405e-08"
+   y="-9.7826501e-08"
+   ry="0.5396117" /><g
+   id="g5277"
+   transform="matrix(0.35931607,0,0,0.35931607,0.27955808,0.56303419)"
+   ns1:version="1.13.0"
+   ns1:texconverter="pdflatex"
+   ns1:pdfconverter="inkscape"
+   ns1:text="\\color{white}K"
+   ns1:preamble="/home/sid/.config/inkscape/extensions/textext/default_packages.tex"
+   ns1:scale="3.075742533491188"
+   ns1:alignment="middle center"
+   ns1:jacobian_sqrt="1.08505"><defs
+     id="defs564" /><g
+     fill="#ffffff"
+     fill-opacity="1"
+     id="g7202"
+     transform="translate(-149.04,-127.953)"><g
+       transform="translate(148.712,134.765)"
+       id="g4746"><path
+         d="M 3.984375,-4.171875 5.78125,-5.90625 C 5.859375,-5.984375 6.390625,-6.484375 7.203125,-6.5 V -6.8125 C 6.9375,-6.78125 6.625,-6.78125 6.34375,-6.78125 c -0.359375,0 -0.921875,0 -1.265625,-0.03125 V -6.5 c 0.40625,0.015625 0.46875,0.234375 0.46875,0.328125 0,0.15625 -0.109375,0.265625 -0.1875,0.328125 L 2.25,-2.859375 V -6.03125 C 2.25,-6.390625 2.265625,-6.5 3.03125,-6.5 h 0.234375 v -0.3125 c -0.34375,0.03125 -1.078125,0.03125 -1.46875,0.03125 -0.375,0 -1.125,0 -1.46875,-0.03125 V -6.5 H 0.5625 c 0.765625,0 0.796875,0.109375 0.796875,0.46875 v 5.25 c 0,0.359375 -0.03125,0.46875 -0.796875,0.46875 H 0.328125 V 0 c 0.34375,-0.03125 1.09375,-0.03125 1.46875,-0.03125 0.375,0 1.125,0 1.46875,0.03125 V -0.3125 H 3.03125 C 2.265625,-0.3125 2.25,-0.421875 2.25,-0.78125 V -2.515625 L 3.40625,-3.625 5.203125,-0.953125 c 0.0625,0.09375 0.15625,0.21875 0.15625,0.34375 0,0.296875 -0.390625,0.296875 -0.59375,0.296875 V 0 C 5.109375,-0.03125 5.8125,-0.03125 6.1875,-0.03125 c 0.359375,0 0.734375,0.015625 1.15625,0.03125 v -0.3125 c -0.546875,0 -0.75,-0.03125 -1.046875,-0.46875 z m 0,0"
+         id="path510" /></g></g></g></svg>
