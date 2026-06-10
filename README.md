@@ -2,6 +2,9 @@
 
 This app is a PyQt6 desktop tool for calibrating a camera and LiDAR pair using synchronized image and point-cloud frames. It guides the user through loading paired data, detecting a ChArUco calibration target, estimating camera intrinsics and per-frame board poses, detecting LiDAR target centers, optimizing the LiDAR-to-camera extrinsics, visualizing projected LiDAR points on images, and saving the final calibration.
 
+## Authors
+Siddharth Tourani, Akash Kumbar, Gnana Prakash 
+
 ## Dependencies
 
 Use Python 3.10 or newer. The app depends on:
